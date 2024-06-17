@@ -16,13 +16,13 @@ menu:
 #  List||fas fa-list:
 #    Music: /music/ || fas fa-music
 #    Movie: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
+  # 友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: darker #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -40,11 +40,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: source/images/20fc5666e9d91c17b0a6066ab5fb7d67.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: source/images/20fc5666e9d91c17b0a6066ab5fb7d67.jpg
   effect: false
 
 # Disable all banner image
